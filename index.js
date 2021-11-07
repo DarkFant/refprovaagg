@@ -1,10 +1,3 @@
-/*
-telegram-bot-amazon
-
-Author: Luca Zorzi (@LucaTNT)
-License: MIT
-*/
-
 const TelegramBot = require("node-telegram-bot-api");
 const fetch = require("node-fetch");
 
