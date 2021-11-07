@@ -40,6 +40,6 @@ You can either run the app directly through NodeJS
 
 Or you can run it in Docker
 
-    docker run -e TELEGRAM_BOT_TOKEN=your-token -e AMAZON_TAG=your-tag --init lucatnt/telegram-bot-amazon
+    docker run -e TELEGRAM_BOT_TOKEN=your-token -e AMAZON_TAG=your-tag --init darkfant/refbottg
 
 Note that the `--init` option is highly recommended because it allows you to stop the container through a simple Ctrl+C when running in the foreground. Without it you need to use `docker stop`.
