@@ -382,7 +382,7 @@ bot.on("message", async (msg) => {
     }
   } catch (e) {
     log(
-      "ERROR, please file a bug report at https://github.com/LucaTNT/telegram-bot-amazon"
+      "ERROR, please file a bug report at https://github.com/DarkFant/refbottg"
     );
     console.log(e);
   }
