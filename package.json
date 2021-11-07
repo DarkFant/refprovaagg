@@ -1,5 +1,5 @@
 {
-  "name": "telegram-bot-amazon",
+  "name": "refbottg",
   "version": "1.0.0",
   "description": "Telegram bot to replace Amazon affiliate tags in links",
   "main": "index.js",
