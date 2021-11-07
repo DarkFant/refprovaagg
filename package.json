@@ -24,10 +24,10 @@
     "bot",
     "amazon"
   ],
-  "author": "LucaTNT",
+  "author": "DarkFant",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/LucaTNT/telegram-bot-amazon/issues"
+    "url": "https://github.com/DarkFant/refbottg/issues"
   },
-  "homepage": "https://github.com/LucaTNT/telegram-bot-amazon#readme"
+  "homepage": "https://github.com/DarkFant/refbottg#readme"
 }
